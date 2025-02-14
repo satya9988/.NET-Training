@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "q10_day4_seatbooking/1.0.0": {
+        "runtime": {
+          "q10_day4_seatbooking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "q10_day4_seatbooking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

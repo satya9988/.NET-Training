@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "q2ArrayObj2/1.0.0": {
+        "runtime": {
+          "q2ArrayObj2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "q2ArrayObj2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
