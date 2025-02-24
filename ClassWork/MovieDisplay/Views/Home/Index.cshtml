@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+@model MovieDisplay.Models.MovieVM
+
+<h4>Movies Collections</h4>
+
+@Html.Partial("create", Model.movie)
+
+@{ Html.RenderPartial("display", Model.movies); }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentCalculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a124411a2fdbc0baaf0e1b6d54b89689b199768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88aabbf6f7e7e7aa28d2f6ebc519d3b745715448")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentCalculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentCalculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

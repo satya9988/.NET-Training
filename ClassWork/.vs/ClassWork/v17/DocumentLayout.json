@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\models\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\models\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\models\\imoviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\models\\imoviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\models\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\models\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\migrations\\20250224094155_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\migrations\\20250224094155_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\moviedisplay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\moviedisplay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\moviedisplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ABA761-D2A9-4E13-AB26-1727E295E5BD}|MovieDisplay\\MovieDisplay.csproj|solutionrelative:moviedisplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\models\\halldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\models\\halldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +79,8 @@
       "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\models\\halldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\models\\halldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\models\\halldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|solutionrelative:hallbudgetpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{526B70B3-5826-4C54-A543-5FBCD902899C}|HallBudgetPro\\HallBudgetPro.csproj|c:\\users\\satyanarayana.k\\.net-training\\classwork\\hallbudgetpro\\models\\ihalldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,36 +130,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieDisplay\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieDisplay\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T11:16:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieVM.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\MovieVM.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Models\\MovieVM.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\MovieVM.cs",
+              "RelativeToolTip": "MovieDisplay\\Models\\MovieVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:17:52.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "MovieDisplay\\Views\\Home\\Display.cshtml",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "MovieDisplay\\Views\\Home\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:04:44.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieDisplay\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieDisplay\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:54:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieDisplay\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "MovieDisplay\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:51:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieDisplay",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\MovieDisplay.csproj",
+              "RelativeDocumentMoniker": "MovieDisplay\\MovieDisplay.csproj",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\MovieDisplay.csproj",
+              "RelativeToolTip": "MovieDisplay\\MovieDisplay.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T09:39:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250224094155_movie.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Migrations\\20250224094155_movie.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Migrations\\20250224094155_movie.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Migrations\\20250224094155_movie.cs",
+              "RelativeToolTip": "MovieDisplay\\Migrations\\20250224094155_movie.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:41:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Program.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Program.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Program.cs",
+              "RelativeToolTip": "MovieDisplay\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:20:14.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\MovieDBContext.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Models\\MovieDBContext.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\MovieDBContext.cs",
+              "RelativeToolTip": "MovieDisplay\\Models\\MovieDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:11:55.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Models\\MovieDAO.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\MovieDAO.cs",
+              "RelativeToolTip": "MovieDisplay\\Models\\MovieDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:11:08.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieDAO.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\IMovieDAO.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Models\\IMovieDAO.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\IMovieDAO.cs",
+              "RelativeToolTip": "MovieDisplay\\Models\\IMovieDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:09:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieDisplay\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:07:40.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieDisplay\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\MovieDisplay\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieDisplay\\Models\\Movie.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:04:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HallBudgetPro\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Properties\\launchSettings.json",
               "RelativeToolTip": "HallBudgetPro\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-23T12:13:32.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Program.cs",
               "RelativeDocumentMoniker": "HallBudgetPro\\Program.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Program.cs",
               "RelativeToolTip": "HallBudgetPro\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T10:19:05.282Z"
+              "WhenOpened": "2025-02-23T10:19:05.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Views\\Home\\Search.cshtml",
               "RelativeDocumentMoniker": "HallBudgetPro\\Views\\Home\\Search.cshtml",
@@ -120,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HallBudgetPro\\Views\\Home\\Index.cshtml",
@@ -133,20 +355,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HallBudgetPro\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Controllers\\HomeController.cs",
               "RelativeToolTip": "HallBudgetPro\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T09:55:56.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "HallDBContext.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Models\\HallDBContext.cs",
               "RelativeDocumentMoniker": "HallBudgetPro\\Models\\HallDBContext.cs",
@@ -159,20 +381,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "HallDAO.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Models\\HallDAO.cs",
               "RelativeDocumentMoniker": "HallBudgetPro\\Models\\HallDAO.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Models\\HallDAO.cs",
               "RelativeToolTip": "HallBudgetPro\\Models\\HallDAO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T09:21:48.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "IHallDAO.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Models\\IHallDAO.cs",
               "RelativeDocumentMoniker": "HallBudgetPro\\Models\\IHallDAO.cs",
@@ -180,59 +402,64 @@
               "RelativeToolTip": "HallBudgetPro\\Models\\IHallDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:19:49.283Z"
+              "WhenOpened": "2025-02-23T09:19:49.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "Hall.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Models\\Hall.cs",
               "RelativeDocumentMoniker": "HallBudgetPro\\Models\\Hall.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\HallBudgetPro\\Models\\Hall.cs",
               "RelativeToolTip": "HallBudgetPro\\Models\\Hall.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:15:10.406Z"
+              "WhenOpened": "2025-02-23T09:15:10.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "Claculate.cshtml",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Views\\Home\\Claculate.cshtml",
               "RelativeDocumentMoniker": "RentCalculation\\Views\\Home\\Claculate.cshtml",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Views\\Home\\Claculate.cshtml",
               "RelativeToolTip": "RentCalculation\\Views\\Home\\Claculate.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAIBJwAkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T10:40:05.829Z"
+              "WhenOpened": "2025-02-21T10:40:05.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "RentCalculation\\Models\\Customer.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Models\\Customer.cs",
               "RelativeToolTip": "RentCalculation\\Models\\Customer.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA5wBsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:26:07.816Z"
+              "WhenOpened": "2025-02-21T10:26:07.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RentCalculation\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RentCalculation\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAIBJwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBZwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T08:53:43.263Z"
+              "WhenOpened": "2025-02-21T08:53:43.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\RentCalculation\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RentCalculation\\Controllers\\HomeController.cs",
@@ -240,11 +467,12 @@
               "RelativeToolTip": "RentCalculation\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T08:48:38.921Z"
+              "WhenOpened": "2025-02-21T08:48:38.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "DisplayName.cshtml",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\WelComeUser\\Views\\MessageDisplay\\DisplayName.cshtml",
               "RelativeDocumentMoniker": "WelComeUser\\Views\\MessageDisplay\\DisplayName.cshtml",
@@ -252,11 +480,12 @@
               "RelativeToolTip": "WelComeUser\\Views\\MessageDisplay\\DisplayName.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T07:32:55.661Z"
+              "WhenOpened": "2025-02-21T07:32:55.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\WelComeUser\\Program.cs",
               "RelativeDocumentMoniker": "WelComeUser\\Program.cs",
@@ -264,11 +493,12 @@
               "RelativeToolTip": "WelComeUser\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:58:46.905Z"
+              "WhenOpened": "2025-02-20T14:58:46.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\WelComeUser\\Views\\MessageDisplay\\Index.cshtml",
               "RelativeDocumentMoniker": "WelComeUser\\Views\\MessageDisplay\\Index.cshtml",
@@ -276,11 +506,12 @@
               "RelativeToolTip": "WelComeUser\\Views\\MessageDisplay\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T15:01:20.139Z"
+              "WhenOpened": "2025-02-20T15:01:20.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "MessageDisplay.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\ClassWork\\WelComeUser\\Controllers\\MessageDisplay.cs",
               "RelativeDocumentMoniker": "WelComeUser\\Controllers\\MessageDisplay.cs",
@@ -288,7 +519,8 @@
               "RelativeToolTip": "WelComeUser\\Controllers\\MessageDisplay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:59:20.146Z"
+              "WhenOpened": "2025-02-20T14:59:20.146Z",
+              "EditorCaption": ""
             }
           ]
         }
