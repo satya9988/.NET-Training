@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+
+<h2>Enter your hall budget</h2>
+@using (Html.BeginForm("Search", "Home", FormMethod.Post))
+{
+    <label for="budget">Budget:</label>
+    <input type="number" id="budget" name="price" required />
+    <button type="submit">Get Halls</button>
+}
+

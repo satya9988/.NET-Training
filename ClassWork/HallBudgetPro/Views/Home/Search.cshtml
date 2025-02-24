@@ -1,0 +1,38 @@
+﻿@model List<HallBudgetPro.Models.Hall>
+
+@{
+    ViewBag.Title = "Search Results";
+}
+
+<h2>Hall Details</h2>
+
+@if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}
+else
+{
+    <table border="1">
+        <thead>
+            <tr style="border:solid">
+                <th style="border:solid">Hall Name</th>
+                <th style="border:solid">Owner Name</th>
+                <th style="border:solid">Cost Per Day</th>
+                <th style="border:solid">Mobile</th>
+                <th style="border:solid">Address</th>
+            </tr>
+        </thead>
+        <tbody style="border:solid">
+            @foreach (var hall in Model)
+            {
+                <tr style="border:solid">
+                    <td style="border:solid">@hall.HallName</td>
+                    <td style="border:solid">@hall.OwnerName</td>
+                    <td style="border:solid">@hall.CostPerDay</td>
+                    <td style="border:solid">@hall.Mobile</td>
+                    <td style="border:solid">@hall.Address</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

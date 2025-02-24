@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelComeUser", "WelComeUser\WelComeUser.csproj", "{A448C809-8BEF-4128-8174-24E521BF256F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCalculation", "RentCalculation\RentCalculation.csproj", "{9C021AFE-E6B3-4050-B043-F7B27EB64182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HallBudgetPro", "HallBudgetPro\HallBudgetPro.csproj", "{526B70B3-5826-4C54-A543-5FBCD902899C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A448C809-8BEF-4128-8174-24E521BF256F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A448C809-8BEF-4128-8174-24E521BF256F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A448C809-8BEF-4128-8174-24E521BF256F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A448C809-8BEF-4128-8174-24E521BF256F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C021AFE-E6B3-4050-B043-F7B27EB64182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C021AFE-E6B3-4050-B043-F7B27EB64182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C021AFE-E6B3-4050-B043-F7B27EB64182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C021AFE-E6B3-4050-B043-F7B27EB64182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526B70B3-5826-4C54-A543-5FBCD902899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526B70B3-5826-4C54-A543-5FBCD902899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526B70B3-5826-4C54-A543-5FBCD902899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526B70B3-5826-4C54-A543-5FBCD902899C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
