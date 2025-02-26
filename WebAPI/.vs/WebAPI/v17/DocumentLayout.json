@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\model\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\model\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\model\\iemployeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\model\\iemployeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|c:\\users\\satyanarayana.k\\.net-training\\webapi\\employeewebapi\\employeewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3E3958C-F8B8-4B2F-ABB5-0CAFD58F2CB0}|EmployeeWebAPI\\EmployeeWebAPI.csproj|solutionrelative:employeewebapi\\employeewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 204,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\UserDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Model\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\UserDetails.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Model\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:16:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:16:01.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:09:21.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T06:03:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:51:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Model\\EmployeeDAO.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\EmployeeDAO.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Model\\EmployeeDAO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:51:06.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\IEmployeeDAO.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Model\\IEmployeeDAO.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\IEmployeeDAO.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Model\\IEmployeeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:49:38.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Model\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\EmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Model\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:48:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\Model\\Employee.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:42:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\EmployeeWebAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\EmployeeWebAPI.csproj",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\.NET-Training\\WebAPI\\EmployeeWebAPI\\EmployeeWebAPI.csproj",
+              "RelativeToolTip": "EmployeeWebAPI\\EmployeeWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T05:42:07.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
